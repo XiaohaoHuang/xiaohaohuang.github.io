@@ -6,7 +6,7 @@ Welcome to my personal website!
 
 I am a Ph.D. candidate in Economics at the Institute for Economic and Social Research (IESR) of Jinan University, Guangzhou. I received my Master of Science in Economics from the Hong Kong University of Science and Technology in 2022, and Bachelor of Science in International Economics and Trade from the Guangdong University of Foreign Studies in 2021.
 
-My research interests lie in applied microeconomics and development economics.
+My research interests include applied microeconomics and development economics.
 
 I will be on the job market in 2025-2026 and available for interviews. You can find my CV here.
 
