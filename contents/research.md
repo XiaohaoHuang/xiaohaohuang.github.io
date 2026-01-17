@@ -8,4 +8,6 @@
 
 - "Education and E-Commerce Adoption: Evidence from China's Compulsory Schooling Law."
 
-- "Housing Price and Crime: Evidence from China," with Wen Liu.
+- "Housing Price and Crime: Evidence from China."
+
+- "E-Commerce and Markups."
