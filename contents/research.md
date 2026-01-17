@@ -6,6 +6,6 @@
 
 #### In Progress
 
-- "Education and E-Commerce Adoption: Evidence from China," with Lixin Tang.
+- "Education and E-Commerce Adoption: Evidence from China's Compulsory Schooling Law," with Lixin Tang.
 
 - "Housing Price and Crime: Evidence from China," with Wen Liu.
