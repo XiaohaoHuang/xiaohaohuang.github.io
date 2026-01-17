@@ -10,7 +10,7 @@ My research interests include applied microeconomics and development economics.
 
 I will be on the job market in 2025-2026 and available for interviews. You can find my CV here.
 
-我是暨南大学经济与社会研究院经济学博士候选人。我计划于2025–2026学年开始求职，欢迎面试与学术交流邀请。[简历]
+我是暨南大学经济与社会研究院经济学博士候选人。欢迎各位老师及学者就面试或学术合作与我联系。[简历]
 
 
 #### Contact
