@@ -6,6 +6,6 @@
 
 #### In Progress
 
-- "Education and E-Commerce Adoption in China: Evidence from Compulsory Schooling Law."
+- "Education and E-Commerce Adoption: Evidence from China's Compulsory Schooling Law."
 
 - "Housing Price and Crime: Evidence from China," with Wen Liu.
