@@ -90,7 +90,7 @@ section .main-body{
 
 #avatar {
     position: absolute;
-    right: max(12rem, 16vw);  /* 调大这里 */
+    right: max(16rem, 20vw);  /* 调大这里 */
     bottom: -160px;
     z-index: 9500;
 }
