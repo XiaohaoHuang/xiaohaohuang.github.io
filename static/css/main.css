@@ -90,10 +90,9 @@ section .main-body{
 
 #avatar {
     position: absolute;
-    right: 3rem;
+    right: max(6rem, 8vw);
     bottom: -160px;
     z-index: 9500;
-    margin: 0;
 }
 
 #avatar img {
