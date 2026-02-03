@@ -96,11 +96,11 @@ section .main-body{
 }
 
 #avatar img {
-    height: 220px;       /* 调小高度 */
-    width: auto;         /* 宽度按比例自动 */
+    max-height: 280px;      /* 高度上限 */
+    height: min(220px, 50vw); /* 小屏高度按屏幕比例 */
+    width: auto;
     box-shadow: 6px 6px 12px rgba(0, 0, 0, 0.25);
 }
-
 
 @media screen and (max-width: 991px) {
     #avatar {
