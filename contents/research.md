@@ -1,6 +1,6 @@
 #### Publication
 
-- "Early-Life Adversity and E-Commerce Adoption in Old Age: Evidence from China's Great Famine," with Lixin Tang. Accepted at ***China Economic Review***. January 2026.  
+- "Early-Life Adversity and E-Commerce Adoption in Old Age: Evidence from China's Great Famine," with Lixin Tang. ***China Economic Review***, 2026, Volume 97, 102676.
 
 
 
