@@ -4,13 +4,11 @@
 
 
 
-#### Working Paper
+#### Working Papers
+
+- "E-Commerce Expansion and Manufacturing Markups: Evidence from Chinese Industries," with Weili Chen, Haichao Fan, Lixin Tang.
+
+- "When the Cranes Slow: Housing Deceleration and Crime in China," with Wen Liu, Shiyu Bo.
+
 
 - "Education and E-Commerce Adoption: Evidence from China's Compulsory Schooling Law," with Lixin Tang.
-
-- "Housing Price Growth and Crime: Evidence from China," with Wen Liu.
-
-
-#### In Progress
-
-- "E-Commerce and Markups."
